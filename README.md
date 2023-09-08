@@ -12,5 +12,7 @@ eventos;
 
 <img src="https://raw.githubusercontent.com/vivianezzt/TODO--list-ebac/main/img/todo-list.png">
 
+## Confira aqui => <a href="https://viviane-todo-list-ebac.vercel.app/">TODO List</a>
+
 ## Exercício proposto pela escola de programação <a href="https://ebaconline.com.br/cursos">EBAC</a>&copy;
 ### Módulo JQuery
